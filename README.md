@@ -4,8 +4,7 @@
   ### **요구사항**
 
 1. 아래의 요구사항을 기반으로 Use Case 그려보기
-    - 손으로 그려도 됩니다.
-    - cf. [https://narup.tistory.com/70](https://narup.tistory.com/70)
+    ![스프링입문주차 유스케이스 drawio](https://user-images.githubusercontent.com/76934018/181413985-1e857616-faf7-4aaf-8e21-312af514f027.png)
 2. 전체 게시글 목록 조회 API
     - 제목, 작성자명, 작성 날짜를 조회하기
     - 작성 날짜 기준으로 내림차순 정렬하기
